@@ -422,6 +422,7 @@ h1, h2, h3, h4, h5, h6, figure {
   line-height: 1.5;
   color: #828282;
 }
+
 .fh5co-heading span {
   display: block;
   margin-bottom: 10px;
@@ -661,7 +662,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .progress-wrap h3 .value-right {
   float: right;
 }
-
+/* AD */
 .progress {
   width: 100%;
   float: left;
@@ -1116,7 +1117,7 @@ input[type="text"] {
   box-shadow: none !important;
   outline: none !important;
 }
-
+/* AD */
 .btn-primary {
   background: #6FA8DC;
   color: #fff;
